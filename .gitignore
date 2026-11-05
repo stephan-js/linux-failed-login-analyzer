@@ -1,0 +1,7 @@
+# Ignore generated security reports
+reports/*.txt
+
+# Ignore temporary files
+*.swp
+*~
+.DS_Store
