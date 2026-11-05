@@ -150,3 +150,4 @@ Through this project, I practised:
 **Author:** stephan-js
 
 **Project Type:** Cybersecurity | Linux | Bash Scripting | Blue Team | SOC Fundamentals
+# linux-failed-login-analyzer
